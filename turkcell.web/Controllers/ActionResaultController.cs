@@ -27,7 +27,7 @@ namespace turkcell.web.Controllers
 		}
 
 		// geriye boş sayfa  dönderir.
-		///Actionresault/emptyresault
+		//Actionresault/emptyresault
 		public IActionResult EmptyResault()
 		{
 
